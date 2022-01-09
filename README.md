@@ -6,4 +6,4 @@
 - Docker
 
 ## environment
-```source ./envsetup.sh``` to activate the python environment
+```source ./envsetup.sh``` or  ```. ./envsetup.sh``` to activate the python environment
