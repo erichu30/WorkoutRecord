@@ -5,5 +5,5 @@
 - PostgreSQL
 - Docker
 
-## environment
+## development environment
 ```source ./envsetup.sh``` or  ```. ./envsetup.sh``` to activate the python environment
