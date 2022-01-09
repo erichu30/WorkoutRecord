@@ -1,0 +1,2 @@
+conda info --envs
+source activate DjongoWeb-3_9_7
