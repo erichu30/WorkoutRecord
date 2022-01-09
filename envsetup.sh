@@ -1,5 +1,5 @@
 #/bin/bash
-if which conda == ""
+if hash conda 2>/dev/null; then
 then
     echo conda is not installed
 else
